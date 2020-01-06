@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/uiux
   label: UI/UX
-  match: "**/*"
 - type: directory
   path: projects
   label: Projects
