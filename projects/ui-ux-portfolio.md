@@ -6,12 +6,6 @@ categories:
 - ui/ux
 
 ---
-# Hi, I'm Máté Varga
-
-#### and this is my UI/UX design portfolio
-
-Feel free to [**download my CV**](https://1drv.ms/b/s!AiQvI10d18RjpqEYzNGDd9HTJ4IYpw?e=JGFTic)
-
 #### Erste MobilePay — 2018 Redesign
 
 I'm the UI and UX designer of the massive redesign project of Erste Bank Hungary's MobilePay app for Android and iOS.
