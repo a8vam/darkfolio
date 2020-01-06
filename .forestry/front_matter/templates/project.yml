@@ -17,7 +17,4 @@ fields:
   config:
     use_select: false
 pages:
-- projects/molecular-gastronomy.md
-- projects/the-london-book-fair.md
 - projects/ui-ux-portfolio.md
-- projects/°-jupiter-calendar.md
