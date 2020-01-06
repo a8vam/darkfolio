@@ -1,5 +1,5 @@
 ---
-title: UI / UX Portfolio
+title: Erste MobilePay — 2018 Redesign
 thumbnail: img/cover.jpg
 year: ''
 categories:
