@@ -1,7 +1,7 @@
 {
   "site_name": "Portfolio of Mate Varga",
-  "header_title": "Welcome",
-  "first_letter_only": true,
+  "header_title": "Portfolio of Máté Varga",
+  "first_letter_only": false,
   "email": "hello@vam.nu",
   "social": [
     {
